@@ -137,7 +137,7 @@ const Tasks = () => {
               //   </div>
               // ))
               tasks.map((task, index) => (
-                <div key={task._id} className={`bg-white my-4 p-4 text-gray-600 rounded-md shadow-md ${task.completed ? 'bg-green-100' : ''}`}>
+                <div key={task._id} className={`bg-white my-4 p-4 text-gray-600 rounded-md shadow-md ${task.completed ? 'bg-blue-100' : ''}`}>
                   <div className='flex items-center'>
                     <span className='font-medium mr-2'>{task.completed ? 'Completed' : 'Task #' + (index + 1)}</span>
                     {!task.completed && (
