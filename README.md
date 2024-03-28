@@ -153,7 +153,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/Sakuu89/Task-Management
+  - Github Repo: https://github.com/Sakuu89/Todo-Task
 
 - Official Docs
 
