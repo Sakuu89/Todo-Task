@@ -165,45 +165,52 @@ Inside backend folder:
 
 - Deployed Links
 
-- Backend deployed : https://task-backend-eo54.onrender.com/api
+- Backend deployed : https://todo-task-uikj.onrender.com/api
 
-- Frontend deployed : https://task-management-six-ruby.vercel.app/
+- Frontend deployed : https://todo-task-fromtend.vercel.app/
 
 
 ## Screenshots
 
 - Home Page (Desktop View)
 
-![https://github.com/Sakuu89/Task-Management/blob/main/images/laptopview-homepage.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/laptopview-homepage.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/homepage%20desktop%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/homepage%20desktop%20view.png?raw=true)
 
-- SignIn Page(Desktop View)
+- Signup Page(Desktop View)
 
-![https://github.com/Sakuu89/Task-Management/blob/main/images/signin-laptopview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/signin-laptopview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/signup%20desktop%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/signup%20desktop%20view.png?raw=true)
 
 - Login Page(Desktop View)
-![https://github.com/Sakuu89/Task-Management/blob/main/images/login-laptopview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/login-laptopview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/login%20desktop%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/login%20desktop%20view.png?raw=true)
 
 - Task App(Desktop View)
-![https://github.com/Sakuu89/Task-Management/blob/main/images/taskapp-laptopview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/taskapp-laptopview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/task1%20desktop%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/task1%20desktop%20view.png?raw=true)
 
+
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/tasks2%20desktop%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/tasks2%20desktop%20view.png?raw=true)
 
 - Home Page (Mobile View)
 
-![https://github.com/Sakuu89/Task-Management/blob/main/images/homepage-mobview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/homepage-mobview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/homepage%20mob%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/homepage%20mob%20view.png?raw=true)
 
-- SignIn Page(Mobile View)
+- SignUp Page(Mobile View)
 
-![https://github.com/Sakuu89/Task-Management/blob/main/images/sigin-mobview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/sigin-mobview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/login%20mobile%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/login%20mobile%20view.png?raw=true)
+
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/pagination%20mob%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/pagination%20mob%20view.png?raw=true)
+
 
 - Login Page(Mobile View)
 
-![https://github.com/Sakuu89/Task-Management/blob/main/images/sigin-mobview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/sigin-mobview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/login%20mobile%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/login%20mobile%20view.png?raw=true)
+
 
 - Task App(Mobile View)
 
-![https://github.com/Sakuu89/Task-Management/blob/main/images/taskapp-mobview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/taskapp-mobview.png?raw=true)
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/homepage%20mob%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/homepage%20mob%20view.png?raw=true)
 
 - Navbar After Logging In(Mobile View)
-![https://github.com/Sakuu89/Task-Management/blob/main/images/navbar-mobview.png?raw=true](https://github.com/Sakuu89/Task-Management/blob/main/images/navbar-mobview.png?raw=true)
+
+![https://github.com/Sakuu89/Todo-Task/blob/main/images/navbar%20mob%20view.png?raw=true](https://github.com/Sakuu89/Todo-Task/blob/main/images/navbar%20mob%20view.png?raw=true)
 
 
